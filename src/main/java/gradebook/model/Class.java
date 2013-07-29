@@ -1,6 +1,11 @@
 package gradebook.model;
 import java.util.ArrayList;
 
+/**
+ * Creates an offering of a course at a particular time
+ * @author Rex
+ *
+ */
 public class Class{
 
 	private Course course;

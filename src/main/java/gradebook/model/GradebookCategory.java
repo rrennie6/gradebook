@@ -1,5 +1,10 @@
 package gradebook.model;
-
+/**
+ * Creates a category for a grade book with a 
+ * weight 
+ * @author Rex
+ *
+ */
 public class GradebookCategory {
 	
 	private String name;

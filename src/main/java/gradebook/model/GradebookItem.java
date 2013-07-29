@@ -1,5 +1,10 @@
 package gradebook.model;
-
+/**
+ * creates a gradebook item that knows what 
+ * category it is in
+ * @author Rex
+ *
+ */
 public class GradebookItem {
 	
 	private String name;

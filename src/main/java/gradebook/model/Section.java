@@ -1,7 +1,12 @@
 package gradebook.model;
 import java.util.ArrayList;
 
-
+/**
+ * creates a section of a course that holds all of 
+ * its students and graded works
+ * @author Rex
+ *
+ */
 public class Section {
 
 	private String instructor;

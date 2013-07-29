@@ -1,6 +1,12 @@
 package gradebook.model;
 import java.util.ArrayList;
 
+/**
+ * Creates a course that can be offered that has
+ * a subject, number, name, and prerequisites
+ * @author Rex
+ *
+ */
 public class Course {
 
 	private String subject;

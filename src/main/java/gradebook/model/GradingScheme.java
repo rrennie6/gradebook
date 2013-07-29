@@ -3,7 +3,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
-
+/**
+ * calculates average grade values and
+ * letter grades
+ * @author Rex
+ *
+ */
 public class GradingScheme {
 
 	public static int reportClassAverageScore(Class allSections){

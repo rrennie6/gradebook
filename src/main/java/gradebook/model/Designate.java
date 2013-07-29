@@ -1,5 +1,12 @@
 package gradebook.model;
 
+/**
+ * creates a placeholder for section number and 
+ * instructor to be placed in a section. The 
+ * static counter is helpful.
+ * @author Rex
+ *
+ */
 public class Designate {
 	
 	private static int sectionNumber = 0;

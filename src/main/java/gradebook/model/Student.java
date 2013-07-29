@@ -1,5 +1,9 @@
 package gradebook.model;
-
+/**
+ * a student with a name and STID
+ * @author Rex
+ *
+ */
 public class Student {
 	
 	private String name;

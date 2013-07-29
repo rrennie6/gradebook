@@ -1,5 +1,10 @@
 package gradebook.model;
-
+/**
+ * creates specific graded works that know which item 
+ * they are and what student they belong to
+ * @author Rex
+ *
+ */
 public class StudentGradebookItem {
 	
 	private Student student;
