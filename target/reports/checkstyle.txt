@@ -1,0 +1,401 @@
+Starting audit...
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:0: Missing package-info.java file.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:4: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:4:19: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:6:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:6:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:7:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:8:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:9:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:10: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:11:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:11:22: Parameter course should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:11:29: 'course' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:11:36: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:12: Line is longer than 80 characters (found 83).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:14:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:14:22: Parameter course should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:14:29: 'course' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:14:37: Parameter semester should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:14:44: 'semester' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:14:53: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:22: Parameter course should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:29: 'course' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:37: Parameter year should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:41: 'year' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:47: Parameter semester should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:54: 'semester' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17:63: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20: Line is longer than 80 characters (found 82).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:22: Parameter course should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:29: 'course' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:37: Parameter semester should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:44: 'semester' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:54: Parameter sections should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:73: 'sections' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:82: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:22: Parameter course should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:29: 'course' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:37: Parameter year should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:41: 'year' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:47: Parameter semester should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:54: 'semester' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:64: Parameter sections should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:83: 'sections' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:23:92: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:29: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:30:9: Method 'getCourse' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:30:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:30:34: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:33:9: Method 'getSemester' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:33:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:33:36: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:36:9: Method 'getYear' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:36:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:36:29: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:39: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:40:9: Method 'getSections' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:40:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:40:48: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:43: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:44:9: Method 'addSection' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:44:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:44:32: Parameter newSection should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:44:51: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:4: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:6:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:6:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:7:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:8:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:9:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:10: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:23: Parameter subject should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:30: 'subject' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:39: Parameter number should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:43: 'number' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:51: Parameter name should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:58: 'name' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:11:63: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:14: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15:23: Parameter subject should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15:30: 'subject' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15:39: Parameter number should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15:43: 'number' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15:51: Parameter name should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:15:58: 'name' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:16:35: Parameter prereqs should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:16:53: 'prereqs' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:16:61: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:22: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:23:9: Method 'addPrereq' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:23:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:23:31: Parameter newCourse should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:23:48: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:26: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:27:9: Method 'getSubject' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:27:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:27:35: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:30:9: Method 'getNumber' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:30:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:30:31: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:33:9: Method 'getName' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:33:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:33:32: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:36: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:37:9: Method 'getPrereqs' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:37:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:37:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:40: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:41:9: Method 'setPrereqs' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:41:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:41:32: Parameter prereqs should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:41:50: 'prereqs' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:41:58: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:3: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:4: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:4:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:5:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:6:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:7: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:8:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:8:26: Parameter instructor should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:8:33: 'instructor' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:8:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:12: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:13:9: Method 'getInstructor' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:13:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:13:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:16: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:17:9: Method 'getSectionNumber' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:17:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:17:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:3: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:4: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:4:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:5:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:6:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:7: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:8:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:8:34: Parameter name should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:8:41: 'name' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:8:47: Parameter weight should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:8:51: 'weight' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:8:58: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:12:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:12:34: Parameter name should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:12:41: 'name' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:12:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:13:28: '20' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:15: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:16:9: Method 'getName' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:16:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:16:32: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:19:9: Method 'getWeight' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:19:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:19:31: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:3: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:4: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:4:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:5:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:6:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:7: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:8:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:8:30: Parameter name should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:8:37: 'name' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:8:43: Parameter category should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:8:61: 'category' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:8:70: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:12: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:13:9: Method 'getName' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:13:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:13:32: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:17:9: Method 'getCategory' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:17:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:17:47: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:7: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:7:1: Utility classes should not have a public or default constructor.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:9:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:9:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:9:51: Parameter allSections should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:9:69: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:12:20: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:12:33: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:12:34: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:12:50: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:12:54: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:16:29: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:16:30: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:18: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:19:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:19:53: Parameter section should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:19:69: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:22:20: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:22:33: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:22:34: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:22:50: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:22:54: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:26:29: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:26:30: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:28: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:29: Line is longer than 80 characters (found 89).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:29:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:29:56: Parameter section should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:29:73: Parameter student should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:29:89: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:31: Line is longer than 80 characters (found 106).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:32: Line is longer than 80 characters (found 128).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:33:22: 'while' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:33:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:35: Line is longer than 80 characters (found 98).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:38:40: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:38:41: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:38:41: '100' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:39:28: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:39:41: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:39:42: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:39:56: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:39:60: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:42:53: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:42:54: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:45: '*' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:46: '*' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:47: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48: Line is longer than 80 characters (found 114).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:81: Parameter section should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:98: Parameter student should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:114: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:50: Line is longer than 80 characters (found 83).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:51: Line is longer than 80 characters (found 84).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:52:20: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:52:33: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:52:34: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:52:51: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:52:55: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:54:27: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:54:69: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:55: Line is longer than 80 characters (found 109).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:35: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:78: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:58: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:60: Line is longer than 80 characters (found 81).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:61:34: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:61:34: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:61:38: 'else' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:61:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:62: Line is longer than 80 characters (found 84).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:68: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:69:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:69:49: Parameter allSections should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:69:67: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:73: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:74:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:74:49: Parameter section should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:74:65: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:78: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:79: Line is longer than 80 characters (found 82).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:79:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:79:49: Parameter section should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:79:66: Parameter student should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:79:82: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:80: Line is longer than 80 characters (found 83).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:83: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:84:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:84:45: Parameter numberAverage should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:84:66: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:85:19: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:85:33: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:85:35: '90' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:85:35: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:85:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:87:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:87:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:87:25: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:87:39: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:87:41: '80' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:87:41: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:87:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:25: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:39: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:41: '70' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:41: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:91:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:91:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:91:25: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:91:39: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:91:41: '60' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:91:41: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:91:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:93:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:93:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:93:22: 'else' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:93:22: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:5: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:7:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:7:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:8:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:9:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:10:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:11: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:12:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:12:24: Parameter designation should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:12:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:18: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:19:9: Method 'getSectionNumber' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:19:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:19:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:22: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:23:9: Method 'getInstructor' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:23:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:23:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:26:9: Method 'getStudents' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:26:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:26:48: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:29: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:30:9: Method 'getGradedWork' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:30:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:30:63: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:33: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:34:9: Method 'addAssignment' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:34:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:34:35: Parameter newItem should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:34:64: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:37: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:38:9: Method 'addStudent' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:38:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:38:32: Parameter student should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:38:48: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:3: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:4: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:4:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:5:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:6:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:6:21: Name 'STID' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:7: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:24: Parameter name should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:31: 'name' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:37: Parameter STID should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:41: 'STID' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:41: Name 'STID' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:12:9: Method 'getName' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:12:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:12:32: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:15:9: Method 'getSTID' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:15:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:15:29: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:3: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:4: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:4:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:5:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:6:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:6:31: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:7:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:8: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:37: Parameter student should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:45: 'student' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:54: Parameter GradeItem should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:68: 'GradeItem' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:68: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:78: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:13: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14: Line is longer than 80 characters (found 89).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:37: Parameter student should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:45: 'student' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:54: Parameter score should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:58: 'score' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:65: Parameter GradeItem should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:79: 'GradeItem' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:79: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:89: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:19: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:20:9: Method 'setScore' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:20:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:20:30: Parameter score should be final.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:20:34: 'score' hides a field.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:20:40: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:23: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:24:9: Method 'getScore' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:24:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:24:30: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:27: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:28:9: Method 'getStudent' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:28:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:28:36: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:31:9: Method 'getGradeItem' is not designed for extension - needs to be abstract, final or empty.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:31:9: Missing a Javadoc comment.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:31:44: '{' is not preceded with whitespace.
+Audit done.
