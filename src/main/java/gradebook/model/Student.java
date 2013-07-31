@@ -5,18 +5,18 @@ package gradebook.model;
  *
  */
 public class Student {
-	
+
 	private String name;
-	private int STID;
-	
-	public Student(String name, int STID){
+	private int studentID;
+
+	public Student(String name, int studentID) {
 		this.name = name;
-		this.STID = STID;
+		this.studentID = studentID;
 	}
-	public String getName(){
+	public String getName() {
 		return name;
 	}
-	public int getSTID(){
-		return STID;
+	public int getstudentID() {
+		return studentID;
 	}
 }
