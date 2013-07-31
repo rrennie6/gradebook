@@ -9,14 +9,13 @@ public class GradebookCategory {
 
 	private String name;
 	private int weight;
-	private int startingWeight = 20;
 
 	public GradebookCategory(String name, int weight) {
 		this.name = name;
 		this.weight = weight;
 	}
 	public GradebookCategory(String name) {
-		this(name, startingWeight);
+		this(name, 20);
 	}
 
 	public String getName() {
