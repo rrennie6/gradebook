@@ -9,19 +9,19 @@ package gradebook.model;
  */
 public class Designate {
 
-	private static int sectionNumber = 0;
-	private String instructor;
+    private static int sectionNumber = 0;
+    private String instructor;
 
-	public Designate(String instructor) {
-		this.instructor = instructor;
-		sectionNumber++;
-	}
+    public Designate(String instructor) {
+        this.instructor = instructor;
+        sectionNumber++;
+    }
 
-	public String getInstructor() {
-		return instructor;
-	}
+    public String getInstructor() {
+        return instructor;
+    }
 
-	public int getSectionNumber() {
-		return sectionNumber;
-	}
+    public int getSectionNumber() {
+        return sectionNumber;
+    }
 }

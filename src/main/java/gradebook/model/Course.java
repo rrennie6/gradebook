@@ -19,7 +19,7 @@ public class Course {
     }
 
     public Course(String subject, int number, String name,
-			      ArrayList<Course> prereqs) {
+                  ArrayList<Course> prereqs) {
         this.subject = subject;
         this.number = number;
         this.name = name;
@@ -27,17 +27,17 @@ public class Course {
     }
 
     public void addPrereq(Course newCourse) {
-	    prereqs.add(newCourse);
+        prereqs.add(newCourse);
     }
 
     public String getSubject() {
-	    return subject;
+        return subject;
     }
     public int getNumber() {
-	    return number;
+        return number;
     }
     public String getName() {
-	    return name;
+        return name;
     }
 
     public ArrayList<Course> getPrereqs() {
@@ -45,6 +45,6 @@ public class Course {
     }
 
     public void setPrereqs(ArrayList<Course> prereqs) {
-	    this.prereqs = prereqs;
+        this.prereqs = prereqs;
     }
 }

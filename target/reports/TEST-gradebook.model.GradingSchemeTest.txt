@@ -1,8 +1,8 @@
 Testsuite: gradebook.model.GradingSchemeTest
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 sec
 
 Testcase: testSectionLetterGrade took 0 sec
-Testcase: testSectionAverageScore took 0.016 sec
+Testcase: testSectionAverageScore took 0 sec
 Testcase: testClassLetterGrade took 0 sec
 Testcase: testClassAverageScore took 0 sec
 Testcase: testPrereqs took 0 sec
