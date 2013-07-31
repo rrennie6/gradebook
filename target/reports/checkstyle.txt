@@ -1,411 +1,360 @@
 Starting audit...
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:9:19: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:11:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:15: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:16:36: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:17: Line is longer than 80 characters (found 83).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:19:53: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:22:63: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:25: Line is longer than 80 characters (found 82).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:25:82: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:28: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:28:92: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:34: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:35:34: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:38:36: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:41:29: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:44: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:45:48: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:48: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:49:51: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:12:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:16: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:17:63: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:20: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:21: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:22:61: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:28: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:29:48: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:32: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:33:35: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:36:31: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:39:32: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:42: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:43:46: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:46: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:47:58: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:4: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:5: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:11: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:11:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:14: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:15:44: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:19: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:20:38: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:23: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:24:38: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:3: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:4: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:9: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:9:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:12: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:13:58: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:17:46: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:18:28: '20' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:20: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:21:32: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:24:31: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:3: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:9: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:9:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:12: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:13:70: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:17: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:18:32: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:22:47: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:14:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:14:69: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:20: 'for' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:33: '<' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:34: '<' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:50: ';' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:54: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:21:29: '/' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:21:30: '/' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:23: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:24:69: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:20: 'for' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:33: '<' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:34: '<' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:50: ';' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:54: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:31:29: '/' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:31:30: '/' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:33: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:34: Line is longer than 80 characters (found 89).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:34:89: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:36: Line is longer than 80 characters (found 106).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:37: Line is longer than 80 characters (found 128).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:38:22: 'while' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:38:44: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:40: Line is longer than 80 characters (found 98).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:40: '/' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:41: '/' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:41: '100' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:28: 'for' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:41: '<' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:42: '<' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:56: ';' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:60: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:47:53: '/' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:47:54: '/' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:45: '*' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:46: '*' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:52: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:53: Line is longer than 80 characters (found 114).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:53:114: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:55: Line is longer than 80 characters (found 83).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:56: Line is longer than 80 characters (found 84).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:20: 'for' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:33: '<' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:34: '<' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:51: ';' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:55: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:59:27: 'if' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:59:69: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:60: Line is longer than 80 characters (found 109).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:62:35: 'if' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:62:78: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:63: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:65: Line is longer than 80 characters (found 81).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:34: 'else' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:34: '}' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:38: 'else' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:38: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:67: Line is longer than 80 characters (found 84).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:73: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:74:67: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:78: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:79:65: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:83: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:84: Line is longer than 80 characters (found 82).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:84:82: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:85: Line is longer than 80 characters (found 83).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:88: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:66: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:19: 'if' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:33: '>=' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:35: '90' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:35: '>=' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:38: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:18: 'else' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:18: '}' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:25: 'if' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:39: '>=' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:41: '80' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:41: '>=' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:44: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:18: 'else' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:18: '}' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:25: 'if' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:39: '>=' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:41: '70' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:41: '>=' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:44: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:18: 'else' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:18: '}' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:25: 'if' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:39: '>=' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:41: '60' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:41: '>=' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:44: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:18: 'else' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:18: '}' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:22: 'else' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:22: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:2: Using the '.*' form of import should be avoided - org.junit.Assert.*.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:17:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:17:16: Variable 'cs2340' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:17:42: '2340' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:18: Line is longer than 80 characters (found 81).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:18:16: Variable 'cs1332' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:18:42: '1332' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:19:16: Variable 'cs1371' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:19:42: '1371' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:20: Line is longer than 80 characters (found 87).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:20:16: Variable 'cs1331' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:20:42: '1331' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:21:16: Variable 'cs9000' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:21:42: '9000' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:22: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:23:15: Variable 'cs2340Class' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:23:47: '2013' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:24: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:25:19: Variable 'cs2340Sec1Designation' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:26:17: Variable 'cs2340Sec1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:27:19: Variable 'cs2340Sec2Designation' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:28:17: Variable 'cs2340Sec2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:29: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:30:17: Variable 'cs2340student1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:30:54: '5032' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:31:17: Variable 'cs2340student2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:31:53: '5293' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:32:17: Variable 'cs2340student3' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:32:57: '1923' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:33:17: Variable 'cs2340student4' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:33:54: '5032' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:34:17: Variable 'cs2340student5' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:34:53: '1293' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:35: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:36:27: Variable 'tests' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:36:66: '30' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:37:27: Variable 'quizzes' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:37:70: '35' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:38:27: Variable 'projects' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:38:72: '35' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:39: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:40:23: Variable 'test1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:41:23: Variable 'test2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:42:23: Variable 'quiz1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:43:23: Variable 'quiz2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:44:23: Variable 'project' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:45: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:46: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:46:30: Variable 'rexTest1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:46:82: '90' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:47: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:47:30: Variable 'rexTest2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:47:82: '75' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:48: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:48:30: Variable 'rexQuiz1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:48:82: '60' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:49: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:49:30: Variable 'rexQuiz2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:49:82: '90' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:50: Line is longer than 80 characters (found 96).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:50:30: Variable 'rexProject' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:50:84: '95' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:51: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:51:30: Variable 'billTest1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:51:83: '70' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:52: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:52:30: Variable 'billTest2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:52:83: '80' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:53: Line is longer than 80 characters (found 94).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:53:30: Variable 'billQuiz1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:53:83: '100' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:54: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:54:30: Variable 'billQuiz2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:54:83: '60' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:55: Line is longer than 80 characters (found 98).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:55:30: Variable 'billProject' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:55:85: '100' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:56: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:56:30: Variable 'patTest1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:56:82: '60' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:57: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:57:30: Variable 'patTest2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:57:82: '55' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:58: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:58:30: Variable 'patQuiz1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:58:82: '85' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:59: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:59:30: Variable 'patQuiz2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:59:82: '60' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:60: Line is longer than 80 characters (found 97).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:60:30: Variable 'patProject' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:60:84: '100' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:61: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:61:30: Variable 'carlTest1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:61:83: '90' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:62: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:62:30: Variable 'carlTest2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:62:83: '80' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:63: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:63:30: Variable 'carlQuiz1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:63:83: '50' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:64: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:64:30: Variable 'carlQuiz2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:64:83: '30' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:65: Line is longer than 80 characters (found 97).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:65:30: Variable 'carlProject' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:65:85: '70' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:66: Line is longer than 80 characters (found 93).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:66:30: Variable 'broTest1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:66:82: '100' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:67: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:67:30: Variable 'broTest2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:67:82: '20' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:68: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:68:30: Variable 'broQuiz1' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:68:82: '90' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:69: Line is longer than 80 characters (found 92).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:69:30: Variable 'broQuiz2' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:69:82: '75' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:70: Line is longer than 80 characters (found 96).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:70:30: Variable 'broProject' must be private and have accessor methods.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:70:84: '40' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:71: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:80: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:83: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:89: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:105: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:117: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:119:34: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:20: 'for' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:33: '<' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:34: '<' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:49: ';' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:53: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:127: Line is longer than 80 characters (found 151).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:129: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:131:36: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:132:57: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:132:59: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:133:57: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:133:59: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:135: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138: Line is longer than 80 characters (found 83).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138:78: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138:80: '73' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138:80: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:140: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:142:46: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143: Line is longer than 80 characters (found 84).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143:79: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143:81: '85' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143:81: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144: Line is longer than 80 characters (found 84).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144:79: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144:81: '62' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144:81: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:146: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:148:46: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149: Line is longer than 80 characters (found 102).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149:95: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149:97: '84.1' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149:97: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150: Line is longer than 80 characters (found 102).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150:95: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150:97: '92.5' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150:97: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151: Line is longer than 80 characters (found 103).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151:95: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151:97: '81.85' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151:97: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152: Line is longer than 80 characters (found 102).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152:95: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152:97: '64.0' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152:97: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153: Line is longer than 80 characters (found 102).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153:95: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153:97: '60.7' is a magic number.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153:97: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:155: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:157:43: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:158:70: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:158:72: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:162:45: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:163:69: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:163:71: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:164:69: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:164:71: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:166: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:168:45: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:169: Line is longer than 80 characters (found 91).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:169:85: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:169:87: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:170: Line is longer than 80 characters (found 91).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:170:85: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:170:87: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:171: Line is longer than 80 characters (found 91).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:171:85: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:171:87: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:172: Line is longer than 80 characters (found 91).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:172:85: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:172:87: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:173: Line is longer than 80 characters (found 91).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:173:85: '==' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:173:87: '==' is not followed by whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:5: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:12:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:16: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:17:46: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:23: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:24:38: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:27: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:28:38: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:31:48: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:34: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:35:63: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:38: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:39:64: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:42: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:43:48: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:10:21: Name 'STID' must match pattern '^[a-z][a-zA-Z0-9]*$'.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:11: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:12:41: Name 'STID' must match pattern '^[a-z][a-zA-Z0-9]*$'.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:12:46: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:16:32: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:19:29: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:3: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:1: File contains tab characters (this is the first instance).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:11:31: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:13: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:68: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:78: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:18: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:19: Line is longer than 80 characters (found 89).
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:19:79: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:19:89: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:24: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:25:40: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:28: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:29:30: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:32: Line has trailing spaces.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:33:36: '{' is not preceded with whitespace.
-c:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:36:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Class.java:20:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Course.java:22:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Designate.java:12:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:10:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookCategory.java:12:38: '20' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:3: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:9: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:9:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:12: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:13:70: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:17: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:18:32: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradebookItem.java:22:47: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:14:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:14:69: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:20: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:33: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:34: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:50: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:17:54: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:21:29: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:21:30: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:23: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:24:69: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:20: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:33: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:34: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:50: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:27:54: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:31:29: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:31:30: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:33: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:34: Line is longer than 80 characters (found 89).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:34:89: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:36: Line is longer than 80 characters (found 106).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:37: Line is longer than 80 characters (found 128).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:38:22: 'while' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:38:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:40: Line is longer than 80 characters (found 98).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:40: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:41: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:43:41: '100' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:28: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:41: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:42: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:56: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:44:60: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:47:53: '/' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:47:54: '/' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:45: '*' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:48:46: '*' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:52: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:53: Line is longer than 80 characters (found 114).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:53:114: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:55: Line is longer than 80 characters (found 83).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:56: Line is longer than 80 characters (found 84).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:20: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:33: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:34: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:51: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:57:55: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:59:27: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:59:69: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:60: Line is longer than 80 characters (found 109).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:62:35: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:62:78: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:63: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:65: Line is longer than 80 characters (found 81).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:34: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:34: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:38: 'else' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:66:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:67: Line is longer than 80 characters (found 84).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:73: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:74:67: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:78: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:79:65: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:83: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:84: Line is longer than 80 characters (found 82).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:84:82: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:85: Line is longer than 80 characters (found 83).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:88: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:89:66: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:19: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:33: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:35: '90' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:35: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:90:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:25: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:39: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:41: '80' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:41: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:92:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:25: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:39: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:41: '70' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:41: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:94:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:25: 'if' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:39: '>=' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:41: '60' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:41: '>=' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:96:44: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:18: 'else' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:18: '}' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:22: 'else' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingScheme.java:98:22: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:2: Using the '.*' form of import should be avoided - org.junit.Assert.*.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:17:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:17:16: Variable 'cs2340' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:17:42: '2340' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:18: Line is longer than 80 characters (found 81).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:18:16: Variable 'cs1332' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:18:42: '1332' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:19:16: Variable 'cs1371' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:19:42: '1371' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:20: Line is longer than 80 characters (found 87).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:20:16: Variable 'cs1331' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:20:42: '1331' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:21:16: Variable 'cs9000' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:21:42: '9000' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:22: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:23:15: Variable 'cs2340Class' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:23:47: '2013' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:24: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:25:19: Variable 'cs2340Sec1Designation' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:26:17: Variable 'cs2340Sec1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:27:19: Variable 'cs2340Sec2Designation' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:28:17: Variable 'cs2340Sec2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:29: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:30:17: Variable 'cs2340student1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:30:54: '5032' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:31:17: Variable 'cs2340student2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:31:53: '5293' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:32:17: Variable 'cs2340student3' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:32:57: '1923' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:33:17: Variable 'cs2340student4' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:33:54: '5032' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:34:17: Variable 'cs2340student5' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:34:53: '1293' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:35: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:36:27: Variable 'tests' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:36:66: '30' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:37:27: Variable 'quizzes' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:37:70: '35' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:38:27: Variable 'projects' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:38:72: '35' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:39: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:40:23: Variable 'test1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:41:23: Variable 'test2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:42:23: Variable 'quiz1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:43:23: Variable 'quiz2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:44:23: Variable 'project' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:45: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:46: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:46:30: Variable 'rexTest1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:46:82: '90' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:47: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:47:30: Variable 'rexTest2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:47:82: '75' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:48: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:48:30: Variable 'rexQuiz1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:48:82: '60' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:49: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:49:30: Variable 'rexQuiz2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:49:82: '90' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:50: Line is longer than 80 characters (found 96).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:50:30: Variable 'rexProject' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:50:84: '95' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:51: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:51:30: Variable 'billTest1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:51:83: '70' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:52: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:52:30: Variable 'billTest2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:52:83: '80' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:53: Line is longer than 80 characters (found 94).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:53:30: Variable 'billQuiz1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:53:83: '100' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:54: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:54:30: Variable 'billQuiz2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:54:83: '60' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:55: Line is longer than 80 characters (found 98).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:55:30: Variable 'billProject' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:55:85: '100' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:56: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:56:30: Variable 'patTest1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:56:82: '60' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:57: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:57:30: Variable 'patTest2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:57:82: '55' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:58: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:58:30: Variable 'patQuiz1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:58:82: '85' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:59: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:59:30: Variable 'patQuiz2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:59:82: '60' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:60: Line is longer than 80 characters (found 97).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:60:30: Variable 'patProject' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:60:84: '100' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:61: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:61:30: Variable 'carlTest1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:61:83: '90' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:62: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:62:30: Variable 'carlTest2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:62:83: '80' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:63: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:63:30: Variable 'carlQuiz1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:63:83: '50' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:64: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:64:30: Variable 'carlQuiz2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:64:83: '30' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:65: Line is longer than 80 characters (found 97).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:65:30: Variable 'carlProject' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:65:85: '70' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:66: Line is longer than 80 characters (found 93).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:66:30: Variable 'broTest1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:66:82: '100' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:67: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:67:30: Variable 'broTest2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:67:82: '20' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:68: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:68:30: Variable 'broQuiz1' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:68:82: '90' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:69: Line is longer than 80 characters (found 92).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:69:30: Variable 'broQuiz2' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:69:82: '75' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:70: Line is longer than 80 characters (found 96).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:70:30: Variable 'broProject' must be private and have accessor methods.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:70:84: '40' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:71: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:80: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:83: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:89: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:105: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:117: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:119:34: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:20: 'for' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:33: '<' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:34: '<' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:49: ';' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:122:53: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:127: Line is longer than 80 characters (found 151).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:129: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:131:36: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:132:57: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:132:59: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:133:57: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:133:59: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:135: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138: Line is longer than 80 characters (found 83).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138:78: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138:80: '73' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:138:80: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:140: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:142:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143: Line is longer than 80 characters (found 84).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143:79: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143:81: '85' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:143:81: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144: Line is longer than 80 characters (found 84).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144:79: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144:81: '62' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:144:81: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:146: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:148:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149: Line is longer than 80 characters (found 102).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149:95: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149:97: '84.1' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:149:97: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150: Line is longer than 80 characters (found 102).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150:95: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150:97: '92.5' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:150:97: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151: Line is longer than 80 characters (found 103).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151:95: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151:97: '81.85' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:151:97: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152: Line is longer than 80 characters (found 102).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152:95: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152:97: '64.0' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:152:97: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153: Line is longer than 80 characters (found 102).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153:95: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153:97: '60.7' is a magic number.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:153:97: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:155: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:157:43: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:158:70: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:158:72: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:162:45: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:163:69: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:163:71: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:164:69: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:164:71: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:166: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:168:45: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:169: Line is longer than 80 characters (found 91).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:169:85: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:169:87: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:170: Line is longer than 80 characters (found 91).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:170:85: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:170:87: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:171: Line is longer than 80 characters (found 91).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:171:85: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:171:87: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:172: Line is longer than 80 characters (found 91).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:172:85: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:172:87: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:173: Line is longer than 80 characters (found 91).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:173:85: '==' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\GradingSchemeTest.java:173:87: '==' is not followed by whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:5: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:12:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:16: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:17:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:23: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:24:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:27: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:28:38: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:31:48: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:34: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:35:63: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:38: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:39:64: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:42: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Section.java:43:48: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:8:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:10:21: Name 'STID' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:11: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:12:41: Name 'STID' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:12:46: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:16:32: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\Student.java:19:29: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:3: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:9:1: File contains tab characters (this is the first instance).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:11:31: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:13: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:68: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:14:78: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:18: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:19: Line is longer than 80 characters (found 89).
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:19:79: Name 'GradeItem' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:19:89: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:24: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:25:40: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:28: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:29:30: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:32: Line has trailing spaces.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:33:36: '{' is not preceded with whitespace.
+C:\Users\Rex\gradebook\src\main\java\gradebook\model\StudentGradebookItem.java:36:44: '{' is not preceded with whitespace.
 Audit done.
